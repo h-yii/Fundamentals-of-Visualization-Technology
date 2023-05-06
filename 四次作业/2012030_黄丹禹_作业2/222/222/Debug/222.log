@@ -1,0 +1,37 @@
+﻿生成启动时间为 2022/6/11 15:27:36。
+     1>项目“D:\MyEOfNew\4th term\2-1 可视化\2012030_黄丹禹_作业2\222\222\222.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\222.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\MyEOfNew\software\visual studio2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\222.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 222View.cpp
+         222View.cpp
+     1>d:\myeofnew\4th term\2-1 可视化\2012030_黄丹禹_作业2\222\222\resource.h(10): warning C4005: “IDCANCEL”: 宏重定义
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winuser.h(9293) : 参见“IDCANCEL”的前一个定义
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\MyEOfNew\software\visual studio2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MyEOfNew\4th term\2-1 可视化\2012030_黄丹禹_作业2\222\Debug\222.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\222.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\MyEOfNew\4th term\2-1 可视化\2012030_黄丹禹_作业2\222\Debug\222.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MyEOfNew\4th term\2-1 可视化\2012030_黄丹禹_作业2\222\Debug\222.lib" /MACHINE:X86 Debug\222.res
+         Debug\222.exe.embed.manifest.res
+         Debug\222.obj
+         Debug\222Doc.obj
+         Debug\222View.obj
+         Debug\MainFrm.obj
+         Debug\MyNewDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\222.exe.embed.manifest" /manifest Debug\222.exe.intermediate.manifest "D:\MyEOfNew\software\visual studio2010\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         222.vcxproj -> D:\MyEOfNew\4th term\2-1 可视化\2012030_黄丹禹_作业2\222\Debug\222.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\222.unsuccessfulbuild”。
+         正在对“Debug\222.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\MyEOfNew\4th term\2-1 可视化\2012030_黄丹禹_作业2\222\222\222.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.43
